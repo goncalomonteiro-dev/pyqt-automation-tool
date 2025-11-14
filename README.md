@@ -17,20 +17,6 @@ This project aims to combine GUI development with automation techniques, creatin
 
 ---
 
-## 🧱 Project Structure (initial)
-pyqt-automation-tool/
-│
-├── src/
-│ ├── main.py # main application
-│ ├── gui/ # PyQt UI files
-│ └── modules/ # automation logic
-│
-├── requirements.txt
-└── README.md
-
-
----
-
 ## 🎯 Objectives
 - Learn and apply **PyQt** for desktop UI development  
 - Develop clean and modular Python code  
